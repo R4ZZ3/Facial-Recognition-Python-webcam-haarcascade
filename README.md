@@ -4,4 +4,4 @@ Project we did with Henri Kauppila to recognize our faces. We used this youtube 
 I recommend doing this project in virtual machine. 
 I used Anaconda to make virtual environment and then did coding with Spyder using Python 2.7
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](
+
