@@ -24,8 +24,6 @@ while(True):
             name="Rasmus Toivanen"
         elif(id==2):
             name="Elon Musk"
-        elif(id==3):
-            name="Tuomas Turunen"    
         cv2.putText(img,str(name),(x,y+h+30),font,0.8,(0,255,0)),2;
         out.write(img)
     cv2.imshow('Face',img);
